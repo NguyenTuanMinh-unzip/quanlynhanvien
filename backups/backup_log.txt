@@ -1,0 +1,4 @@
+2025-04-27 14:58:09 - Thực hiện lệnh sao lưu: "C:/xampp/mysql/bin/mysqldump" --opt -h localhost -u root quanlynhanvien > "C:\xampp\htdocs\quanlynhanvien\pages/../backups/backup_2025-04-27_145809.sql"
+2025-04-27 14:58:09 - Sao lưu thành công: C:\xampp\htdocs\quanlynhanvien\pages/../backups/backup_2025-04-27_145809.sql - Kích thước: 0.02 MB
+2025-05-01 02:33:10 - Thực hiện lệnh sao lưu: "C:/xampp/mysql/bin/mysqldump" --opt -h localhost -u root quanlynhanvien > "C:\xampp\htdocs\quanlynhanvien\pages/../backups/backup_2025-05-01_023310.sql"
+2025-05-01 02:33:10 - Sao lưu thành công: C:\xampp\htdocs\quanlynhanvien\pages/../backups/backup_2025-05-01_023310.sql - Kích thước: 0.02 MB
